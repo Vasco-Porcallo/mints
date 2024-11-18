@@ -26,8 +26,8 @@
     "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
     "J9BcrQfX4p9D1bvLzRNCbMDv8f44a9LFdeqNE4Yk2WMD",
 
-    #"BaDjVCpABEVCdt4LT7ivuzA4izBwJCqnDjrLa8XBtT38",
-    #"9mV4WUukVsva5wYcYW4veo34CNDiF44sh3Ji65JNdvh5",
+    "BaDjVCpABEVCdt4LT7ivuzA4izBwJCqnDjrLa8XBtT38",
+    "9mV4WUukVsva5wYcYW4veo34CNDiF44sh3Ji65JNdvh5",
 
     "FDRBwha8GtiR55BPz6Ucc9ThRtjFynZqgX1UvbV72bB8",
     "RAPRz9fd87y9qcBGj1VVqUbbUM6DaBggSDA58zc3N2b",
