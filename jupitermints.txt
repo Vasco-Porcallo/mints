@@ -1,0 +1,42 @@
+[
+    "So11111111111111111111111111111111111111112"    
+    "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",  # usdt
+    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",  # usdc
+    "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",  # ray
+    "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",  # jitosol
+    "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",  # stsol
+    "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",  # weth
+    "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",  # wbtc
+    "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",   # jup
+    "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",  # pyth
+    "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",   # bsol
+    "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",   # JUPSOL
+
+    "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",  # WIF
+    "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",  # MEW
+    "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",  # BONK
+    "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",  # FWOG
+    "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",   # KAMINO
+    "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",  # POPCAT
+    "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",  # JLP
+    "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",  # PONKE
+    "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",  # MOODENG
+    "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump", # GOAT
+#
+
+    "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",  # INFINITY
+    "J9BcrQfX4p9D1bvLzRNCbMDv8f44a9LFdeqNE4Yk2WMD",  # ISC
+
+    #"BaDjVCpABEVCdt4LT7ivuzA4izBwJCqnDjrLa8XBtT38",  # GNME
+    #"9mV4WUukVsva5wYcYW4veo34CNDiF44sh3Ji65JNdvh5",  # TRUNK
+
+    "FDRBwha8GtiR55BPz6Ucc9ThRtjFynZqgX1UvbV72bB8",  # 7STAR
+    "RAPRz9fd87y9qcBGj1VVqUbbUM6DaBggSDA58zc3N2b",   # RAPR
+
+    "H6JtPso9FsoWj2ni6XzhT4dhQxADxkRsHT6GfVfwdGQP",  # MONEY
+    "Fair3oKKbcrGjcka2tTYQdyS6sYnyyQqbCTTiNmE3WHK",  # FAIR
+
+    "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",   # MNDE
+    "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",   # msol
+
+]
