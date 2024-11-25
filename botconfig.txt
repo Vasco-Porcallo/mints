@@ -23,7 +23,6 @@
     "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
     "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
 
-    "45EgCwcPXYagBC7KqBin4nCFgEZWN7f3Y6nACwxqMCWX",
     "CS7LmjtuugEUWtFgfyto79nrksKigv7Fdcp9qPuigdLs",
 
     "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
