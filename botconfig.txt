@@ -24,7 +24,7 @@
     "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
     "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
     "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P", 
-    "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN".
+    "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
 
     "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
     "J9BcrQfX4p9D1bvLzRNCbMDv8f44a9LFdeqNE4Yk2WMD",
